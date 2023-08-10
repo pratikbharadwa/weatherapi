@@ -1,0 +1,19 @@
+2023-07-27 10:28:26,082 - INFO - Fetching weather information for Thanesar:
+2023-07-27 10:28:26,082 - INFO - Date:2023-07-27, Country: India, City: Thanesar, Avg Temp: 29.3 C, Max_Temp: 34.4 C, Min_Temp: 26.4, Humidity: 75.0, Air Quality (Co2): 814.4416656494141
+2023-07-27 10:28:26,082 - INFO - Fetching weather information for Thanesar:
+2023-07-27 10:28:26,082 - INFO - Date:2023-07-26, Country: India, City: Thanesar, Avg Temp: 28.9 C, Max_Temp: 32.9 C, Min_Temp: 26.6, Humidity: 76.0, Air Quality (Co2): 729.3249969482422
+2023-07-27 10:28:26,083 - INFO - Fetching weather information for Thanesar:
+2023-07-27 10:28:26,083 - INFO - Date:2023-07-25, Country: India, City: Thanesar, Avg Temp: 32.1 C, Max_Temp: 38.0 C, Min_Temp: 27.8, Humidity: 63.0, Air Quality (Co2): 737.8166707356771
+2023-07-27 10:28:28,672 - INFO - Fetching weather information for Kalyan:
+2023-07-27 10:28:28,672 - INFO - Date:2023-07-27, Country: India, City: Kalyan, Avg Temp: 25.6 C, Max_Temp: 26.9 C, Min_Temp: 25.0, Humidity: 91.0, Air Quality (Co2): 252.78333600362143
+2023-07-27 10:28:28,672 - INFO - Fetching weather information for Kalyan:
+2023-07-27 10:28:28,673 - INFO - Date:2023-07-26, Country: India, City: Kalyan, Avg Temp: 25.7 C, Max_Temp: 28.2 C, Min_Temp: 24.7, Humidity: 92.0, Air Quality (Co2): 250.07083447774252
+2023-07-27 10:28:28,673 - INFO - Fetching weather information for Kalyan:
+2023-07-27 10:28:28,673 - INFO - Date:2023-07-25, Country: India, City: Kalyan, Avg Temp: 25.7 C, Max_Temp: 26.7 C, Min_Temp: 24.9, Humidity: 91.0, Air Quality (Co2): 367.4375
+2023-07-27 20:51:49,346 - INFO - Fetching weather information for Kalyan:
+2023-07-27 20:51:49,352 - INFO - Date:2023-07-27, Country: India, City: Kalyan, Avg Temp: 25.7 C, Max_Temp: 27.2 C, Min_Temp: 24.9, Humidity: 91.0, Air Quality (Co2): 255.62916819254556
+2023-07-27 20:51:49,352 - INFO - Fetching weather information for Kalyan:
+2023-07-27 20:51:49,352 - INFO - Date:2023-07-26, Country: India, City: Kalyan, Avg Temp: 25.8 C, Max_Temp: 28.4 C, Min_Temp: 24.7, Humidity: 91.0, Air Quality (Co2): 251.60000038146973
+2023-07-27 20:51:49,353 - INFO - Fetching weather information for Kalyan:
+2023-07-27 20:51:49,353 - INFO - Date:2023-07-25, Country: India, City: Kalyan, Avg Temp: 25.7 C, Max_Temp: 26.7 C, Min_Temp: 24.9, Humidity: 91.0, Air Quality (Co2): 367.4375
+2023-08-07 10:49:41,058 - ERROR - Error executing main(): 'WeatherAPI' object has no attribute 'log_debug'
